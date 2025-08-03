@@ -24,6 +24,4 @@ Users can enter a city name to view the current temperature, weather conditions,
 
 ---
 
-## 🖼️ Preview
-(Add a screenshot here if you have one, e.g.:)  
-![Weather App Screenshot]
+
